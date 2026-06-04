@@ -1,7 +1,7 @@
 # qmk_DracuLad
 
-DracuLad 기반이며 `Dracula` 타겟으로 빌드되는 QMK 키보드 설정입니다.
-This repository contains a DracuLad-based QMK setup built as the `Dracula` target.
+DracuLad 기반이며 `5h100ky/dracula` 타겟으로 빌드되는 QMK 키보드 설정입니다.
+This repository contains a DracuLad-based QMK setup built as the `5h100ky/dracula` target.
 
 - MCU: ProMicro RP2040 (`development_board: promicro_rp2040`)
 - 엔코더: 좌/우 모두 활성화
@@ -11,5 +11,5 @@ This repository contains a DracuLad-based QMK setup built as the `Dracula` targe
 빌드 예시 (QMK Firmware 트리 내부에서):
 
 ```bash
-make Dracula:vial
+make 5h100ky/dracula:vial
 ```

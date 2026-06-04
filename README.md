@@ -1,7 +1,7 @@
 # qmk_DracuLad
 
-Dracula 기반으로 구성한 QMK 키보드 설정입니다.
-This repository contains a Dracula-based QMK setup.
+DracuLad 기반으로, `Dracula` 타겟으로 빌드되는 QMK 키보드 설정입니다.
+This repository contains a DracuLad-based QMK setup built as the `Dracula` target.
 
 - MCU: ProMicro RP2040 (`development_board: promicro_rp2040`)
 - 엔코더: 좌/우 모두 활성화

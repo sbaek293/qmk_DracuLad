@@ -1,6 +1,7 @@
 # qmk_DracuLad
 
 DracuLad 기반으로 구성한 QMK 키보드 설정입니다.
+This repository contains a DracuLad-based QMK setup.
 
 - MCU: ProMicro RP2040 (`development_board: promicro_rp2040`)
 - 엔코더: 좌/우 모두 활성화

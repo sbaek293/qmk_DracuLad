@@ -47,7 +47,7 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
     } else if (index == 1) {
         tap_code(clockwise ? KC_PGUP : KC_PGDN);
     } else if (index == 2) {
-        tap_code(clockwise ? KC_MS_WH_UP : KC_MS_WH_DOWN);
+        tap_code(clockwise ? KC_WH_U : KC_WH_D);
     } else if (index == 3) {
         tap_code(clockwise ? KC_UP : KC_DOWN);
     }

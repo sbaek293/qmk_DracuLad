@@ -57,8 +57,7 @@
         "rgblight": true,
         "oled": true,
         "wpm": true,
-        "encoder": true,
-        "pointing_device": true
+        "encoder": true
     },
     "build": {
         "lto": true

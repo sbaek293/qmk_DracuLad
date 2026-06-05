@@ -1,2 +1,3 @@
-POINTING_DEVICE_ENABLE = yes
+SERIAL_DRIVER = vendor       
 POINTING_DEVICE_DRIVER = pimoroni_trackball
+POINTING_DEVICE_ENABLE = yes
